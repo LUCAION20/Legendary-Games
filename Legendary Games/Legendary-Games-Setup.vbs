@@ -1,0 +1,7 @@
+X=MsgBox("Install Legendary Games?",4+64,"Legendary Games Setup") 
+X=MsgBox("Process started!",0+64,"Legendary Games Setup")
+X=MsgBox("50%!",0+64,"Legendary Games Setup")  
+variable=inputbox ("Set a username !","Legendary Games Setup","")
+X=MsgBox("Username set!",0+64,"Legendary Games Setup") 
+X=MsgBox("100%!",0+64,"Legendary Games Setup") 
+X=MsgBox("Setup done! Open Legendary Games in the Legendary Games folder you downloaded from the internet.",0+64,"Legendary Games Setup") 

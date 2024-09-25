@@ -1,0 +1,5 @@
+X=MsgBox("Welcome to Legendary Games!",0+64,"Legendary Games") 
+variable=inputbox("Type OK in the box to continue","Legendary Games","")
+X=MsgBox("Games : MINECRAFT=https://classic.minecraft.net/ 1v1LOL=1v1.lol Friday Night Funkin=https://www.snokido.com/game/friday-night-funkin",0+64,"Legendary Games") 
+X=MsgBox("Open them in a browser!",0+64,"Legendary Games") 
+X=MsgBox("If you press OK Legendary Games will close!",0+48,"Legendary Games") 
